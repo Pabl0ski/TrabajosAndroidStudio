@@ -1,0 +1,6 @@
+<resources>
+    <color name="colorTitulo">#FFFFFF</color>
+    <color name="colorFondoDegradadoInicio">#FF5722</color>
+    <color name="colorFondoDegradadoFin">#FFC107</color>
+    <color name="colorTextoResultado">#FFFFFF</color>
+</resources>
